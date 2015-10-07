@@ -1,3 +1,3 @@
-# test-items
-# first respository
-# Github setup
+test-items
+first respository
+Github setup
